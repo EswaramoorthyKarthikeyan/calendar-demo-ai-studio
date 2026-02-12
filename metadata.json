@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Chronos Agenda",
+  "description": "A minimalist typographic agenda and schedule manager with smart insights and clean design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
